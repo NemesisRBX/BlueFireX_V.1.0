@@ -4,33 +4,34 @@
 # About Neverwhere 👩‍💻
 <br>
 Neverwhere is a Open-Source, lightweight script injector and executor for Roblox. It's written in C# and it's being actively developed!
-<br>
-Checkout our custom API at https://github.com/WooxHimself/NeverwhereAPI <br>
-Based on EasyXPloits
+Based on EasyXPloits and KRNL
 
 # How to download? 📩
 
-1. Go to http://neverwhere.xyz to download it <br>
+1. Go to www.bluefirex.ml to download it <br>
 2. Unzip the .rar file, I recommend in Documents Folder or on your Desktop <br>
-3. Launch NEVERWHERE.exe <br>
+3. Launch BlueFireX.exe <br>
 4. Wait for it to load <br>
-5. Now you can use NEVERWHERE! <br>
+5. Now you can use BlueFireX! <br>
 
 <br>
 
 # How to use it?  🚀
 <br>
-When you first launch NEVERWHERE, you might be a little bit confused, especially if it's your first time doing roblox exploiting.
-<br> But don't worry, I will help you and guide you through!
+When you first launch BlueFireX, you might be a little bit confused, especially if it's your first time doing roblox exploiting.
+<br> But don't worry, we will help you and guide you through!
 
 ### Buttons
-Our UI has **5** main buttons<br>
+Our UI has **7** main buttons<br>
 
 **INJECT** -- Injects the selected script to the game<br>
 **EXEC** -- Executes the injected script<br>
 **CLEAR** -- Clears the script input<br>
 **OPEN** -- Opens a script. Use .txt or .lua files<br>
 **SAVE** -- Saves script in input
+**SCRIPTS** -- Get scripts websites
+**KILL RBX** -- Kill Roblox at a emergency
+
 <br>
 
 Then there are 3 other buttons:<br>
