@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/76164598/164978039-8194918e-7634-4824-a40a-058b2c9ebbe7.png)
 
 
-# About Neverwhere 👩‍💻
+# About BlueFireX 👩‍💻
 <br>
-Neverwhere is a Open-Source, lightweight script injector and executor for Roblox. It's written in C# and it's being actively developed!
+BlueFireX is a lightweight script injector and executor for Roblox. It's written in C# and C++ being actively developed!
 <br>
 Based on EasyXPloits and KRNL
 
